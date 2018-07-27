@@ -2,7 +2,7 @@ import sqlite3
 from realization.zip import myDict
 
 
-
+"""Надо изменить conn (на папку в которую мы хотим сохранить *.db файл)"""
 conn = sqlite3.connect('D:/testPythonTask/for_test3.db')
 cursor = conn.cursor()
 
