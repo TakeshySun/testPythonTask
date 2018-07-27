@@ -26,7 +26,6 @@ for obj_type, results in myDict.items():
 
 conn.commit()
 
-
 cursor.execute('SELECT * FROM sum')
 
 meida = cursor.fetchall()
