@@ -1,5 +1,5 @@
 import sqlite3
-from zip import myDict
+from realization.zip import myDict
 
 
 
