@@ -1,7 +1,6 @@
 import csv, io, sys, zipfile, os
 
 
-import pandas as pd
 import requests
 from io import BytesIO, StringIO
 from zipfile import ZipFile
