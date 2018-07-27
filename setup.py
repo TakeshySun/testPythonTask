@@ -1,10 +1,10 @@
-from distutils.core import setup
+from setuptools import setup
 
-setup(name='Distutils',
-      version='1.0',
-      description='Test Task',
-      author='Alex Eskin',
-      author_email='',
+setup(
+    name="Testing Framework",
+    version="1.0.0",
+    author="",
+    author_email="",
+    install_requires=["requests"],
 
-      packages=['requests'],
-     )
+)
