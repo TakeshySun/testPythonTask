@@ -3,7 +3,7 @@ from realization.zip import myDict
 
 
 
-conn = sqlite3.connect('D:/testPythonTask/files/for_test3.db')
+conn = sqlite3.connect('D:/testPythonTask/for_test3.db')
 cursor = conn.cursor()
 
 # Создание таблицы
