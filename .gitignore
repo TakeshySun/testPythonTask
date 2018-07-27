@@ -33,6 +33,8 @@ venv/
 *.rar
 #*.tar
 *.zip
+*.csv
+*.db
 
 # Logs and databases #
 ######################
