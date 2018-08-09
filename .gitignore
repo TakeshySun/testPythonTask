@@ -5,7 +5,8 @@
 .idea/
 .idea/workspace.xml
 .idea/*
-
+zip.py
+sql.py
 .pytest_cache/
 __pycache__/
 Testing_Framework.egg-info/
