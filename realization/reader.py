@@ -1,11 +1,6 @@
 import csv
 import sqlite3
 
-results2 = {}
-# SCALR_ENV_ID = {}
-SCALR_FARM_ID = {}
-SCALR_FARM_ROLE_ID = {}
-SCALR_SERVER_ID = {}
 
 myDict = {
     "env_id": {},
